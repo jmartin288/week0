@@ -1,0 +1,24 @@
+/* css style sheet week0*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    
+    background-color: antiquewhite;
+}
+a {
+    text-decoration: none;
+    color: pink;
+    font-size: 1.7rem;
+    font-style: cursive;
+}
+ul {
+    min-height: 10vh;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    
+}
